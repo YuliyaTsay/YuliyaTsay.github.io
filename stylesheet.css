@@ -1,0 +1,46 @@
+li a{
+text-decoration:none;}
+#navbar {
+	position: fixed;
+	top:3px;
+	left:90%;
+	margin-left:-154px;
+}
+ul li{
+display:inline;
+padding-right:15px;
+}
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: 20px;
+	}
+li a{
+color:white;
+font-family:Tahoma;
+font-size:15px;
+}
+#left{
+	width: 45%;
+	float: left;
+}
+img{
+    margin-left:none;
+	margin-top:none;
+	margin-right:none;
+}
+#footer{
+	text-align:center;
+	position:relative;
+	bottom: -550px;
+	left: -550px;
+	}
+div a{color:black;
+	font-family:Century Gothic;
+	text-decoration:none;
+}
+p{
+font-family:Century Gothic;
+color:grey;
+font-size:15px;
+}
