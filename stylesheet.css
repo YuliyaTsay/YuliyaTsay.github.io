@@ -26,28 +26,23 @@ img{
 }
 div a{
 	font-weight:bold;
-	color:#6a293a;
+	color:#e77e7f;
 	font-family:Century Gothic;
 	text-decoration:none;
 }
 p{
 font-family:Century Gothic;
 color:#9a3c3c;
-font-size:18px;
+font-size:16px;
 }
 body{
-background-image:url("http://cs624529.vk.me/v624529608/1a0cc/2xYgV-yeQv0.jpg");
-background-repeat:no-repeat;
-background-size:100%;
+background-color:#ffefef;
 }
 #right_text{
 	float:left;
 }
 div p{
 	font-size:17px;
-}
-#font-family{
-	font-family:Monotype Corsiva;
 }
 #aboutpage{
 	background-image:url("http://cs624529.vk.me/v624529608/1a0d4/GC8BIZCybwE.jpg")
