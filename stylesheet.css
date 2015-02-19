@@ -15,8 +15,6 @@ ul{
 	position: fixed;
 	margin: 20px;
 	}
-
-}
 img{
     margin-left:none;
 	margin-top:none;
@@ -24,7 +22,7 @@ img{
 }
 div a{
 	font-weight:bold;
-	color:#f6b1b1;
+	color:#a97199;
 	font-family:Century Gothic;
 	text-decoration:none;
 }
