@@ -15,9 +15,7 @@ ul{
 	position: fixed;
 	margin: 20px;
 	}
-#left{
-	width: 45%;
-	float: left;
+
 }
 img{
     margin-left:none;
@@ -26,7 +24,7 @@ img{
 }
 div a{
 	font-weight:bold;
-	color:#e77e7f;
+	color:#f6b1b1;
 	font-family:Century Gothic;
 	text-decoration:none;
 }
